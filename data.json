@@ -8,8 +8,8 @@
     "last_price": 360.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/alumahan.jpg",
-    "best_sale": false
+    "image": "images/alumahan.jpg"
+   
   },
   {
     "name": "Arosep Seaweed",
@@ -21,8 +21,8 @@
     "last_price": 169.00,
     "weight": "per 500g",
     "category": "seaweed",
-    "image": "images/Arosep.jpg",
-    "best_sale": true
+    "image": "images/Arosep.jpg"
+ 
   },
   {
     "name": "Bangus",
@@ -34,8 +34,8 @@
     "last_price": 199.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/bangus.jpg",
-    "best_sale": true
+    "image": "images/bangus.jpg"
+ 
   },
   {
     "name": "Asohos",
@@ -47,8 +47,8 @@
     "last_price": 440.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/asohos.jpg",
-    "best_sale": true
+    "image": "images/asohos.jpg"
+
   },
   {
     "name": "Bakoko",
@@ -60,8 +60,8 @@
     "last_price": 725.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/bakoko.jpg",
-    "best_sale": false
+    "image": "images/bakoko.jpg"
+    
   },
   {
     "name": "Bitilya",
@@ -73,8 +73,8 @@
     "last_price": 390.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/bitilya.jpg",
-    "best_sale": true
+    "image": "images/bitilya.jpg"
+
   },
   {
     "name": "Dalagang Bukid",
@@ -86,8 +86,8 @@
     "last_price": 350.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/dalagang-bukid.jpg",
-    "best_sale": false
+    "image": "images/dalagang-bukid.jpg"
+
   },
   {
     "name": "Dapa",
@@ -99,8 +99,8 @@
     "last_price": 790.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/dapa.jpg",
-    "best_sale": true
+    "image": "images/dapa.jpg"
+
   },
   {
     "name": "Espada",
@@ -112,8 +112,8 @@
     "last_price": 815.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/espada.jpg",
-    "best_sale": false
+    "image": "images/espada.jpg"
+ 
   },
   {
     "name": "Galunggong",
@@ -125,8 +125,8 @@
     "last_price": 230.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/galunggong.jpg",
-    "best_sale": true
+    "image": "images/galunggong.jpg"
+ 
      },
   {   "name": "Gindara",
     "tagalog_name": "Gindara",
@@ -138,7 +138,7 @@
     "weight": "per kg",
     "category": "fish",
     "image": "images/gindara.jpg"
-    "best_sale": false
+  
   },
   {
     "name": "Kuhol",
@@ -150,8 +150,8 @@
     "last_price": 165.00,
     "weight": "per kg",
     "category": "shellfish",
-    "image": "images/Kuhol.jpg",
-    "best_sale": false
+    "image": "images/Kuhol.jpg"
+
   },
   {
     "name": "Hasa Hasa",
@@ -163,8 +163,8 @@
     "last_price": 325.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/hasa-hasa.jpg",
-    "best_sale": true
+    "image": "images/hasa-hasa.jpg"
+ 
   },
   {
     "name": "Halaan Small/Medium",
@@ -176,8 +176,8 @@
     "last_price": 330.00,
     "weight": "per kg",
     "category": "shellfish",
-    "image": "images/Halaan-SmallMedium.jpg",
-    "best_sale": false
+    "image": "images/Halaan-SmallMedium.jpg"
+    
   },
   {
     "name": "Halaan Large",
@@ -189,8 +189,8 @@
     "last_price": 420.00,
     "weight": "per kg",
     "category": "shellfish",
-    "image": "images/Halaan-Large.jpg",
-    "best_sale": false
+    "image": "images/Halaan-Large.jpg"
+  
   },
   {
     "name": "Lapu-Lapu Black Genuine",
@@ -202,8 +202,8 @@
     "last_price": 1225.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/lapu-lapu-black-genuine.jpg",
-    "best_sale": false
+    "image": "images/lapu-lapu-black-genuine.jpg"
+
   },
   {
     "name": "Lato Seaweed",
@@ -216,7 +216,7 @@
     "weight": "per 500g",
     "category": "seaweed",
     "image": "images/lato-seaweed.jpg"
-    "best_sale": true
+
   },
   {
     "name": "Matambaka",
@@ -228,8 +228,8 @@
     "last_price": 630.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/matambaka.jpg",
-    "best_sale": true
+    "image": "images/matambaka.jpg"
+ 
   },
   {
     "name": "Maya Maya",
@@ -241,8 +241,8 @@
     "last_price": 1250.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/maya-maya.jpg",
-    "best_sale": false
+    "image": "images/maya-maya.jpg"
+
   },
   {
    "name": "Pampano",
@@ -254,8 +254,8 @@
     "last_price": 715.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/pampano.jpg",
-    "best_sale": false
+    "image": "images/pampano.jpg"
+
   },
   {
     "name": "Salay Ginto",
@@ -267,8 +267,8 @@
     "last_price": 270.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/salay-ginto.jpg",
-     "best_sale": false
+    "image": "images/salay-ginto.jpg"
+     
   },
   {
     "name": "Samaral",
@@ -280,8 +280,8 @@
     "last_price": 380.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/samaral.jpg",
-     "best_sale": false
+    "image": "images/samaral.jpg"
+
   },
   {
     "name": "Sapsap",
@@ -293,8 +293,8 @@
     "last_price": 235.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/sapsap.jpg",
-     "best_sale": true
+    "image": "images/sapsap.jpg"
+     
   },
   {
     "name": "Shrimp Jumbo",
@@ -306,8 +306,8 @@
     "last_price": 700.00,
     "weight": "per 500g",
     "category": "crustacean",
-    "image": "images/shrimp-jumbo.jpg",
-     "best_sale": false
+    "image": "images/shrimp-jumbo.jpg"
+    
   },
   {
     "name": "Shrimp Large",
@@ -319,8 +319,8 @@
     "last_price": 455.00,
     "weight": "per 500g",
     "category": "crustacean",
-    "image": "images/shrimp-large.jpg",
-     "best_sale": false
+    "image": "images/shrimp-large.jpg"
+    
   },
   {
     "name": "Shrimp Small",
@@ -332,8 +332,8 @@
     "last_price": 715.00,
     "weight": "per 500g",
     "category": "crustacean",
-    "image": "images/shrimp-small.jpg",
-     "best_sale": true
+    "image": "images/shrimp-small.jpg"
+   
   },
   {
     "name": "Squid Baby",
@@ -345,8 +345,8 @@
     "last_price": 705.00,
     "weight": "per kg",
     "category": "cephalopod",
-    "image": "images/SquidBaby.jpg",
-     "best_sale": true
+    "image": "images/SquidBaby.jpg"
+     
   },
   {
     "name": "Squid Large",
@@ -358,8 +358,8 @@
     "last_price": 735.00,
     "weight": "per kg",
     "category": "cephalopod",
-    "image": "images/SquidLarge.jpg",
-     "best_sale": false
+    "image": "images/SquidLarge.jpg"
+  
   },
   {
     "name": "Squid Medium",
@@ -371,8 +371,8 @@
     "last_price": 720.00,
     "weight": "per kg",
     "category": "cephalopod",
-    "image": "images/SquidMedium.jpg",
-     "best_sale": false
+    "image": "images/SquidMedium.jpg"
+ 
   },
   {
     "name": "Tahong Small",
@@ -384,8 +384,8 @@
     "last_price": 410.00,
     "weight": "per kg",
     "category": "shellfish",
-    "image": "images/tahong-small.jpg",
-     "best_sale": true
+    "image": "images/tahong-small.jpg"
+  
   },
   {
     "name": "Tahong Medium",
@@ -397,8 +397,8 @@
     "last_price": 229.00,
     "weight": "per kg",
     "category": "shellfish",
-    "image": "images/tahong-medium.jpg",
-     "best_sale": false
+    "image": "images/tahong-medium.jpg"
+  
   },
   {
     "name": "Tahong Large",
@@ -410,8 +410,8 @@
     "last_price": 255.00,
     "weight": "per kg",
     "category": "shellfish",
-    "image": "images/tahong-large.jpg",
-     "best_sale": false
+    "image": "images/tahong-large.jpg"
+     
   },
   {
     "name": "Tawilis",
@@ -423,8 +423,8 @@
     "last_price": 155.00,
     "weight": "per 500g",
     "category": "fish",
-    "image": "images/tawilis.jpg",
-     "best_sale": false
+    "image": "images/tawilis.jpg"
+
   },
   {
     "name": "Tilapia Medium/Large",
@@ -436,8 +436,8 @@
     "last_price": 235.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/tilapia-medium-large.jpg",
-     "best_sale": true
+    "image": "images/tilapia-medium-large.jpg"
+  
   },
   {
     "name": "Tiger Prawns Jumbo",
@@ -449,8 +449,8 @@
     "last_price": 1850.00,
     "weight": "per kg",
     "category": "crustacean",
-    "image": "images/TigerPrawnsJ.jpg",
-     "best_sale": false
+    "image": "images/TigerPrawnsJ.jpg"
+   
   },
   {
     "name": "Tiger Prawns XJumbo",
@@ -462,8 +462,8 @@
     "last_price": 1970.00,
     "weight": "per kg",
     "category": "crustacean",
-    "image": "images/TigerPrawnsXJ.jpg",
-     "best_sale": false
+    "image": "images/TigerPrawnsXJ.jpg"
+     
   },
   {
     "name": "Ulang / River Prawns",
@@ -475,8 +475,8 @@
     "last_price": 1725.00,
     "weight": "per kg",
     "category": "crustacean",
-    "image": "images/ulang.jpg",
-     "best_sale": false
+    "image": "images/ulang.jpg"
+     
   },
   {
     "name": "Yellow Fin",
@@ -488,7 +488,7 @@
     "last_price": 615.00,
     "weight": "per kg",
     "category": "fish",
-    "image": "images/yellow-fin.jpg",
-     "best_sale": false
+    "image": "images/yellow-fin.jpg"
+     
     }
 ]
